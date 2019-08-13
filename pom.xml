@@ -2,9 +2,9 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.domain</groupId>
-  <artifactId>demo${BUILD.NUMBER}.war</artifactId>
+  <artifactId>demo</artifactId>
   <packaging>war</packaging>
-  <version>1.0.${BUILD.NUMBER}-SNAPSHOT</version>
+  <version>SNAPSHOT-1.0.${BUILD.NUMBER}</version>
   <name>Demo Maven Webapp</name>
   <url>https://github.com/tongueroo/demo-java</url>
   <build>
